@@ -1,0 +1,9 @@
+Request by name:  https://pokeapi.co/api/v2/pokemon/bulbasaur
+
+Request by id: https://pokeapi.co/api/v2/pokemon/25
+               https://pokeapi.co/api/v2/pokemon/33
+               https://pokeapi.co/api/v2/pokemon/100
+
+Request by shape:  https://pokeapi.co/api/v2/pokemon-shape/1/
+
+
